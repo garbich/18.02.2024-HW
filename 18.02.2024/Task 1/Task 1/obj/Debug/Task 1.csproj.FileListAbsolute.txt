@@ -1,0 +1,10 @@
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.csproj.SuggestedBindingRedirects.cache
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.csproj.GenerateResource.cache
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Visual\18.02.2024\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Visual\18.02.2024\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Visual\18.02.2024\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Visual\18.02.2024\Task 1\Task 1\obj\Debug\Task 1.pdb
